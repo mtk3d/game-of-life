@@ -1,0 +1,15 @@
+body {
+	background-color: #1c1c1c;
+	color: white;
+	text-align: center;
+    font-family: arial;
+}
+td {
+	width: 1px;
+	height: 1px;
+	background-color: #565656;
+}
+table {
+	margin: 0 auto;
+	margin-top: 40px;
+}
